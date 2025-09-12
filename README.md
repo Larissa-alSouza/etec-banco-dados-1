@@ -3,6 +3,7 @@
   <p>
     <img src="https://img.shields.io/badge/topic-MER-orange" alt="MER" />
     <img src="https://img.shields.io/badge/topic-DER-blue" alt="DER" />
+    <img src="https://img.shields.io/badge/tool-BR%20Modelo-4A90E2?logo=database&logoColor=white" alt="BR Modelo" />
     <img src="https://img.shields.io/badge/language-SQL-red" alt="SQL" />
     <img src="https://img.shields.io/github/last-commit/Larissa-alSouza/etec-banco-dados-1" alt="Último commit" />
   </p>
